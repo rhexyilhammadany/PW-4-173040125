@@ -1,0 +1,27 @@
+.header{
+	background-color: #808080;
+	width: 100%;
+	position: fixe;
+	z-index: 99;
+	border-bottom: 3px solid #300;
+	padding-top: 10px;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+img{
+	margin: 15px 25px;
+	height: 120px;
+	width: 120px;
+}
+th{
+	text-align: center;
+}
+.btn-dark:hover{
+	color: yellow;
+}
+table{
+	border-top: 3px solid black;
+	margin-top: 50px;
+}
